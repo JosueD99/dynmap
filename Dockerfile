@@ -24,7 +24,7 @@ FROM        --platform=$TARGETOS/$TARGETARCH openjdk:17-slim
 
 LABEL       author="Josue Davila" maintainer="admin@davilacloud.com"
 
-LABEL       org.opencontainers.image.source="https://github.com/pterodactyljosued99/dynmap"
+LABEL       org.opencontainers.image.source="https://github.com/josued99/dynmap"
 LABEL       org.opencontainers.image.licenses=MIT
 
 RUN 		apt-get update -y \
