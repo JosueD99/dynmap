@@ -1,15 +1,15 @@
 {
-  "name": "@josued99/dynmap",
+  "name": "@JosueD99/dynmap",
   "version": "1.0.0",
   "description": "",
-  "main": "dockerfile",
+  "main": "Dockerfile",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
   "author": "",
   "repository": {
-    "url": "git://github.com/josued99/dynmap.git"
+    "url": "git://github.com/JosueD99/dynmap.git."
   },
   "license": "ISC"
 }
