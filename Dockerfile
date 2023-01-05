@@ -22,7 +22,7 @@
 
 FROM        --platform=$TARGETOS/$TARGETARCH openjdk:17-slim
 
-LABEL       author="Josue Davila" maintainer="admin@davilacloud.com"
+LABEL       author="Josue Davila" maintainer="admin@davilahosting.com"
 
 LABEL       org.opencontainers.image.source="https://github.com/josued99/dynmap"
 LABEL       org.opencontainers.image.licenses=MIT
